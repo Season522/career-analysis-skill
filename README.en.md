@@ -128,7 +128,15 @@ The purpose of the Public Beta is not to prove that the Skill works equally well
 
 ## Installation
 
-Download the complete repository and keep the directory structure intact:
+### Recommended: Download the Beta installation package
+
+Go to this project's **Releases** page and download:
+
+`career-analysis-skill-v0.1.1-beta.zip`
+
+This is the clean installation package and contains only the files required to run the Skill.
+
+After extraction, the directory structure should be:
 
 ```text
 career-analysis-skill/
@@ -140,11 +148,11 @@ career-analysis-skill/
     └── report-outline.md
 ```
 
-Do not copy only `SKILL.md`. The files under `references` are part of the full analysis workflow.
+Install the complete career-analysis-skill folder. Do not copy only SKILL.md.
 
-The current version has been installed and tested successfully in **Codex and WorkBuddy**.
+The GitHub Release page also provides Source code (zip) and Source code (tar.gz). These are automatically generated source archives. For normal installation, use career-analysis-skill-v0.1.1-beta.zip instead.
 
-Other environments that support Agent Skills still require further validation.
+The current version has been installed and tested successfully in Codex and WorkBuddy. Other environments that support Agent Skills still require further validation.
 
 ## Privacy
 
