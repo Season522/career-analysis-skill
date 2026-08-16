@@ -1,9 +1,9 @@
 ---
-name: career-evidence-engine
+name: career-analysis-skill
 description: Identify, index, package, cross-validate, and evaluate career evidence from a resume plus user-authorized historical work files, project artifacts, portfolios, plans, analyses, reports, decision records, deliverables, communications, or other professional materials. Use when asked to build a Stage 1 career archive project index, create a Stage 2 Career Evidence Package for downstream deep reading and analysis, perform Stage 3 internal career evidence analysis, run Stage 4 resume-evidence cross-validation, distinguish personal contribution from team/client/vendor output, classify capability levels, identify evidenced gaps, or draft the single final career ability and role positioning report. Do not use to scan unapproved files, build apps, call APIs, create multiple stage reports, or treat resume wording alone as proof of ability.
 ---
 
-# Career Evidence Engine
+# Career Analysis Skill
 
 ## Core Principle
 
