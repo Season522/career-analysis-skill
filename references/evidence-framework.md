@@ -106,7 +106,7 @@ Filter high-value files using general professional categories, not industry-spec
 - **Data and monitoring**: dashboards, measurement files, monitoring records, logs, analytics, performance tracking, or quality checks.
 - **Results, review, and acceptance**: closing reports, summaries, retrospectives, outcome evidence, acceptance records, settlement materials, or handover documents.
 
-User- or industry-specific terms from a particular archive may be used as local keyword hints only. They must not become universal Career Evidence Engine rules.
+User- or industry-specific terms from a particular archive may be used as local keyword hints only. They must not become universal Career Analysis Skill rules.
 
 ### Stage 1 Outputs
 
