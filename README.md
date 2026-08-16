@@ -95,7 +95,15 @@ Public Beta 的目的并不是证明它一定适合所有职业，而是逐步�
 
 ## 安装
 
-请下载完整仓库并保留目录结构：
+### 推荐方式：下载 Beta 安装包
+
+进入本项目的 **Releases**，下载最新 Beta 版本中的：
+
+`career-analysis-skill-v0.1.1-beta.zip`
+
+这是已经整理好的干净安装包，只包含 Skill 运行所需文件。
+
+解压后目录结构应为：
 
 ```text
 career-analysis-skill/
@@ -106,10 +114,11 @@ career-analysis-skill/
     ├── evidence-framework.md
     └── report-outline.md
 ```
+请安装完整的 career-analysis-skill 文件夹，不要只复制 SKILL.md。
 
-不要只复制 `SKILL.md`，`references` 中的文件属于完整分析流程的一部分。
+GitHub Release 页面同时会提供 Source code (zip) 和 Source code (tar.gz)。它们是 GitHub 自动生成的源码包。普通用户建议优先下载上面的 career-analysis-skill-v0.1.1-beta.zip 安装包。
 
-当前版本已在 **Codex、WorkBuddy** 中完成安装和运行测试。其他支持 Agent Skills 的环境仍需要进一步验证。
+当前版本已在 Codex、WorkBuddy 中完成安装和运行测试。其他支持 Agent Skills 的环境仍需要进一步验证。
 
 ## 隐私说明
 
